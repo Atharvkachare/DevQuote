@@ -15,12 +15,6 @@ https://dev-quote.vercel.app/
 
 ---
 
-## 📸 Preview
-
-![DevQuote Preview](./public/devquote-preview.png)
-
----
-
 ## ✨ Features
 
 - 🎯 Random developer quotes
